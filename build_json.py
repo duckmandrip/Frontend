@@ -35,7 +35,7 @@ def main():
     catalog = {"DATA": {}}
 
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
-        urls = [line.strip() for line in f if line.strip().lower().endswith(".pkg")]
+        urls = [line.strip() for line in f if ".pkg" in line.strip().lower()]
 
     for url in urls:
         filename = unquote(os.path.basename(urlparse(url).path))
