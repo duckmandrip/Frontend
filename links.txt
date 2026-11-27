@@ -69,3 +69,4 @@ Parental Level,Game Title,File Offset,PlayStation PRO Support,Current Version,In
 9,Tomb Raider: Definitive Edition,0,No,1.01,http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA00107_00/4/f_a7d2b9f7f680dc2c4da2d4f648f5ef00f43057f83d7ba336a95be911d27c1285/f/UP0082-CUSA00107_00-000000TOMBRAIDER-A0101-V0101.pkg,30.4MB,No,0,f927168736c0fd5fe2628c8284959478a64afc01,CUSA00107_00,
 5,The Tomorrow Children,0,No,1.32,http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA00108_00/22/f_b3d98a9e2e567fb4c9a40075b1cba9e366feb5c57125916672fd57d1d3ae6e2b/f/JP9000-CUSA00108_00-TTC0000000000000-A0132-V0101.pkg,3.2GB,No,0,ea02727d8411bcc18efbc6cce771d3b8ec388b8f,CUSA00108_00,
 9,Tomb Raider: Definitive Edition,0,No,1.01,http://gs2.ww.prod.dl.playstation.net/gs2/ppkgo/prod/CUSA00109_00/3/f_3852bc8dac541b2982528c6ab7
+
